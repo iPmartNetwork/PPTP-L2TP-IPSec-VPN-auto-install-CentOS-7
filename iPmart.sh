@@ -13,7 +13,7 @@ _/___/________/_/__/_(___(_/_____(_ __/___|/____(___ _(_ __|/_|/__(___/_/_____/_
 #############################################################
 #                                                           #
 # This is a PPTP and L2TP VPN installation for CentOS 7     #
-# Version: 1.1.1 20160507                                   #
+# Version: 1.0.1                                            #
 # Author: Ali Hassanzadeh                                   #
 # GitHub: http://github.com/ipmartnetwork                   #
 #                                                           #
@@ -37,7 +37,7 @@ printf "
 #############################################################
 #                                                           #
 # This is a PPTP and L2TP VPN installation for CentOS 7     #
-# Version: 1.1.1 20160507                                   #
+# Version: 1.0.1                                            #
 # Author: Ali Hassanzadeh                                   #
 # GitHub: http://github.com/ipmartnetwork                   #
 #                                                           #
@@ -448,7 +448,7 @@ printf "
 #############################################################
 #                                                           #
 # This is a PPTP and L2TP VPN installation for CentOS 7     #
-# Version: 1.1.1 20160507                                   #
+# Version: 1.0.1                                            #
 # Author: Ali Hassanzadeh                                   #
 # GitHub: http://github.com/ipmartnetwork                   #
 #                                                           #
