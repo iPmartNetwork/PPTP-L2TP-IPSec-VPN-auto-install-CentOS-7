@@ -18,3 +18,13 @@
 yum update && yum upgrade -y
 
 ```
+
+
+
+
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/ipmartnetwork/PPTP-L2TP-IPSec-VPN-auto-install-CentOS-7
+/main/iPmart.sh)
+
+```
