@@ -27,3 +27,8 @@ yum update && yum upgrade -y
 wget https://raw.githubusercontent.com/ipmartnetwork/PPTP-L2TP-IPSec-VPN-auto-install-CentOS-7/main/iPmart.sh
 
 ```
+
+
+```bash
+sh iPmart.sh
+```
