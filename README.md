@@ -21,6 +21,11 @@ yum update && yum upgrade -y
 
 ```
 
+
+```bash
+yum install git -y
+
+```
 دستور زیر را در سور وارد کنید و اینتر بزنید
 
 
