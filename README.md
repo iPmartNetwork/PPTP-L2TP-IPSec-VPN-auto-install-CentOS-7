@@ -9,3 +9,12 @@
 <h6>
 </p>
 
+
+
+## نصب
+
+
+```bash
+yum update && yum upgrade -y
+
+```
